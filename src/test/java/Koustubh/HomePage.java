@@ -9,5 +9,6 @@ public class HomePage extends Base{
 	public void basePageNavigation() throws Exception {
 		driver = initializeDriver();
 		driver.get("https://www.fb.com");
+		driver.get("https://www.gd.com");
 	}
 }
