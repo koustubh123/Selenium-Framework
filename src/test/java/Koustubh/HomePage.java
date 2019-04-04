@@ -11,5 +11,6 @@ public class HomePage extends Base{
 		driver.get("https://www.fb.com");
 		driver.get("https://www.gd.com");
 		driver.get("https://www.pd.com");
+		driver.get("https://www.m.com");
 	}
 }
