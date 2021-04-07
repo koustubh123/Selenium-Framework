@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import resources.Base;
 
 public class HomePage extends Base{
-	
+	//Home Page
 	@Test
 	public void basePageNavigation() throws Exception {
 		driver = initializeDriver();
